@@ -1,0 +1,78 @@
+/*-----------------
+* [Master Stylesheet]
+*
+* Theme    : Gift Sefike
+* Version  : 1.0
+* Author   : Gift Kwena
+* 
+------------------*/
+::-webkit-scrollbar{
+    width: 4px;
+    color:#FBDD9D;
+}
+::-webkit-scrollbar-thumb {
+    background: #FBDD9D; 
+    border-radius: 4px;
+    width: 4px;
+  }
+  #breaker{
+      background-color: #FBDD9D;
+  }
+  .color{
+      color: #FBDD9D;
+  }
+  #about-content a{
+      color:#FBDD9D ;
+  }
+  .cv a button{
+      background: #FBDD9D;
+  }
+  .service-img img{
+    background: #FBDD9D;
+    box-shadow:0px 0px 0px 0px #FBDD9D ;
+  }
+  .service:hover .service-img img{
+    box-shadow:0px 0px 0px 400px #FBDD9D ;
+}
+.html-progress{
+    background: #FBDD9D;
+}
+.js-progress{
+    background: #FBDD9D;
+}
+.adobe-progress{
+    background: #FBDD9D;
+}
+.php-progress{
+    background: #FBDD9D;
+}
+.jquery-progress{
+    background: #FBDD9D;
+}
+.seo-progress{
+    background: #FBDD9D;
+}
+.portfolio-text h2{
+    color: #FBDD9D;
+}
+.portfolio-text button{
+    color: #FBDD9D;
+    border: 1.5px solid #FBDD9D;
+}
+.portfolio-text button::before{
+    background: #FBDD9D;
+}
+.portfolio-image img::before{
+    background: #FBDD9D;
+}
+.blog-date{
+    background: #FBDD9D;
+}
+form button{
+    background: #FBDD9D;
+}
+@media all and (max-width: 550px) and (min-width: 5px){
+    .service:hover .service-img img{
+        box-shadow:0px 0px 0px 0px #c70039 ;
+    }
+}
